@@ -1,0 +1,11 @@
+{
+  "name": "asg-worker-orchestrator",
+  "version": "1.0.0",
+  "description": "router/worker to auto scale remotely ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
